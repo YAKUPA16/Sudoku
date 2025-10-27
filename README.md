@@ -48,4 +48,5 @@ The game features a **Load Game** option, an **Instruction Manual**, and **20 le
 | 16–20 | Expert | Extremely challenging |
 
 Each level is **randomly generated**, so replaying the same level will always yield a **different puzzle**.
+## 🌟 Enjoy
 
